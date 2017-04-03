@@ -266,6 +266,8 @@ Activity launched and data returned
 Passes an error message as a string.
 
 ## 4. Changelog
+0.3.0: Added ability to launch via an Action Name on Android.
+
 0.2.0: Android: Added ability to launch activity with extras and receive data back from launched app when it is finished.
 
 0.1.2: Added ability to check if any apps are installed that can handle a certain datatype on Android.
